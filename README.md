@@ -40,7 +40,7 @@ and then set up the data as
 cluster_1.setInitialPointStatus(your point linkedlist);
 cluster_1.setInitialClusterNumber(number of clusters);
 cluster_1.setIterationNumber(number of iterations);
-cluster_1.setConvergenceTolerance(tolerance)
+cluster_1.setConvergenceTolerance(tolerance);
 
 ```
 *   The following method will initialize the KMeans.
@@ -67,7 +67,7 @@ It then will returns the centroid of each cluster and number of points in each c
 
 ## Authors
 
-* **Xiao Guan** - *Initial work* - [XiaoGuan_Summer Assignment](https://github.com/guan4015/KMeans)
+* **Xiao Guan** - *Initial work* - [KMeans](https://github.com/guan4015/KMeans)
 
 
 ## Acknowledgments
